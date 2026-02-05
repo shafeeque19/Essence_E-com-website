@@ -97,7 +97,7 @@
 }
 
 .category-card:nth-child(3) .category-image {
-    background-image: url('images/products/accessories-composition-with-sunglasses-scarf-wallet.jpg');
+    background-image: url('/images/products/accessories-composition-with-sunglasses-scarf-wallet.jpg');
 }
 
 .category-card:hover .category-image {
@@ -216,4 +216,5 @@
         grid-template-columns: 1fr;
         gap: var(--spacing-xl);
     }
+
 }
